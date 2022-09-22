@@ -1,9 +1,15 @@
 /* Place CSS styles here */
-.button{
+button{
     background-color: blue;
     border-color: blue;
     color: antiquewhite;
   }
-  .button:hover{
-    background-color: blue;
+  button{
+    background-color: blueviolet;
+    border-color: darkgrey;
+    border-radius: 6px;
+color: antiquewhite;
+  }
+  button:hover{
+    background-color: cadetblue;
         }
